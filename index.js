@@ -12,4 +12,4 @@ function fuzzyMatch(someArray, str){
   })
 }
 
-function matchName()
+function matchName(someArray, str))
