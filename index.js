@@ -15,7 +15,7 @@ function fuzzyMatch(someArray, str){
 function matchName(someArray, str){
   return someArray.filter(function(name){
     return for (key in name){
-      return
+      return name == str;
     }
   })
 }
