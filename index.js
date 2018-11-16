@@ -12,4 +12,6 @@ function fuzzyMatch(someArray, str){
   })
 }
 
-function matchName(someArray, str))
+function matchName(someArray, str){
+  return someArray.filter(function(name))
+}
