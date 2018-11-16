@@ -1,5 +1,5 @@
 // Code your solution in this file
-function findMatching(name, array) {
-  const result = array.filter(name)
+function findMatching(name, someArray) {
+  const result = someArray.filter(name)
   return result
 }
