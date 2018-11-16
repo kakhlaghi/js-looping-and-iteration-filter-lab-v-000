@@ -2,6 +2,5 @@
 function findMatching(someArray, name) {
   return someArray.filter(function (someName){
     return someName == name;
-  }
-  return result
+  })
 }
