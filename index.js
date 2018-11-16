@@ -11,3 +11,5 @@ function fuzzyMatch(someArray, str){
     return someStr[0] == str[0];
   })
 }
+
+function matchName()
