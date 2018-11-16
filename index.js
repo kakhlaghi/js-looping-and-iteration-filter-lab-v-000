@@ -1,5 +1,5 @@
 // Code your solution in this file
-function findMatching(name, someArray) {
+function findMatching(someArray, name) {
   return someArray.filter(function (someName){
     somename === name
   }
