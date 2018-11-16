@@ -7,7 +7,7 @@ function findMatching(someArray, name) {
 
 
 function fuzzyMatch(someArray, str){
-  return someArray.fitler(function(someStr) {
+  return someArray.filter(function(someStr) {
     return someStr[0] == str[0];
   })
 }
