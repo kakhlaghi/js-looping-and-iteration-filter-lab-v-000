@@ -6,4 +6,6 @@ function findMatching(someArray, name) {
 }
 
 
-function fuzzyMatch(someArray, str)
+function fuzzyMatch(someArray, str){
+  return someArray.fitler()
+}
