@@ -3,3 +3,4 @@ function findMatching(name, someArray) {
   const result = someArray.filter(name)
   return result
 }
+
